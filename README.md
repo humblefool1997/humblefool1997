@@ -5,7 +5,6 @@
 **humblefool1997/humblefool1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,10 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Saif's github stats](https://github-readme-stats.vercel.app/api?username=humblefool1997&show_icons=true&theme=radical)
-
 ## ⚡ Technologies
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -47,3 +43,4 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+![Saif's github stats](https://github-readme-stats.vercel.app/api?username=humblefool1997&show_icons=true&theme=radical)
