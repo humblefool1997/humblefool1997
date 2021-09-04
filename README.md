@@ -44,4 +44,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblefool1997&hide=TeX&layout=compact)
 
-![Mohammed Saif's github activity graph][(https://activity-graph.herokuapp.com/graph?username=humblefool1997&theme=xcode)](https://git.io/humblefool1997)
+![Mohammed Saif's github activity graph](https://activity-graph.herokuapp.com/graph?username=humblefool1997&theme=xcode)
