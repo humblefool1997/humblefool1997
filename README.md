@@ -7,7 +7,6 @@
 -->
 
 - 🔭 I’m currently working on Building awesome tech
-- 🌱 I’m currently learning Functional Programming
 - 👯 I’m looking to collaborate on FOSS,any cool idea
 - 📫 How to reach me email at isaeefullah@gmail.com
 - 😄 Pronouns: He/Him
